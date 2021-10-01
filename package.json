@@ -1,0 +1,20 @@
+{
+    "name": "com.warbelt.toolbelt",
+    "version": "1.0.0",
+    "displayName": "ToolBelt",
+    "description": "Unity tools",
+    "unity": "2020.3",
+    "unityRelease": "0f1",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+    "dependencies": {
+   },
+   "keywords": [
+    ],
+    "author": {
+      "name": "Mario Durántez",
+      "email": "warbelt.dev@gmail.com",
+      "url": "warbelt.github.io"
+    }
+  }
